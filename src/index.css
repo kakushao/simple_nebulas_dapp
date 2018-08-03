@@ -1,0 +1,34 @@
+/*
+body{
+    background: url("img/bg.jpg");
+}
+*/
+.banner {
+    margin-top: -43px;
+    background: url(img/bg.jpg);
+    width: 1160px;
+    height: 283px;
+}
+
+.list-unstyled li {
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
